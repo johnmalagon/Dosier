@@ -1,0 +1,205 @@
+.body{
+   
+    background-color: #a8adb3;
+    font-family:"Montserrat","arial", "#000000";
+    
+}
+li{
+    line-height: 24px;
+}
+.contenedor-principal{
+    display: flex;
+    flex-direction: row-reverse;
+    
+    margin: 40px auto;
+    
+    
+    
+    background: #FFFFFF; 
+}
+ 
+.informacion-general{
+    padding-left: 40px;
+    margin-right: 300px;
+    background: #FFFFFF;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);}
+
+.descricion-profesion{
+       
+
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 17px;
+        /* identical to box height */
+
+
+        color: #000000;
+    }
+.nombre{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+
+    color: #b81111;
+}
+.descripcion-personal{
+    width: 400px;
+    height: 120x;
+    left: 498px;
+    top: 252px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: justify;
+    
+   
+
+
+    color: #595959;
+}
+.descricion-profesion{
+    width: 153px;
+    height: 10px;
+    left: 498px;
+    top: 142px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px; 
+   
+
+}
+ 
+.titulo-seccion-general {
+   
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    padding-top: 10px;
+}
+.color-naranja{
+    color: darkorange;
+}
+.titulo-seccion-proyecto{
+   margin-top: 40px;
+}
+
+.lista-proyectos{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    padding-left: 17px;
+    /* or 171% */
+
+
+    color: #457ab6;
+}
+.enlases-proyectos{
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+        color: #595959;
+}
+
+.puntos-proyectos{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 4px;
+    color: #595959;
+}
+
+
+.informacion-educacion{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 3px;
+}
+.informacion-lateral{
+   
+    
+    
+    
+   
+
+    background: #1E2939;
+}
+.titulo-lateral{
+    margin: 40px auto;
+    margin-left: 40px;
+
+   
+    color: #FFFFFF;
+}
+.lista-lateral{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    padding-left: 56px;
+    /* or 171% */
+
+
+    color: #FFFFFF;
+}
+
+.celular-mail{
+        width: 10px;
+        height: 5px;
+        left: 10px;
+        top: 520px;
+
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 24px;
+        color: #FFFFFF;
+        padding-left: 40px;
+}
+.celular{
+         width: 26px;
+        height: 48px;
+        left: 80px;
+        top: 520px;
+
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 24px;
+        color: #e69696;
+        padding-left: 5px;
+}
+.mail{
+    width: 26px;
+    height: 48px;
+    left: 80px;
+    top: 520px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #5bbba0;
+    padding-left: 5px;
+}
+-Ko1015996097*
+Ko1015996097*
